@@ -1,0 +1,13 @@
+METODOLOGIAS TRADICIONALES
+
+Las metodologías tradicionales, como su nombre nos indica, son las que se han usado toda la vida. Buscan imponer disciplina al proceso de desarrollo de software y de esa forma volverlo predecible y por ello eficiente.
+
+De hecho, estas metodologías tienen un enfoque predictivo, donde se sigue un proceso secuencial en una sola dirección y sin marcha atrás. La estimación/captura de requisitos se realiza una única vez (exacto, una vez solo) al principio del proyecto y es precisamente por eso que nuestra estimación tendrá mucha importancia ya que de ella dependen todos los recursos que emplearemos en el proyecto. Si queremos adoptar una metodología tradicional, el desarrollo de un proyecto debe empezar siempre con un riguroso proceso de captura de requisitos, análisis y diseño. Recuerda: los requisitos son acordados de una vez y, para todo el proyecto, no se esperan cambios en ellos.
+
+Un consejo: adopta este tipo de metodología cuando ya tienes mucha experiencia con un determinado tipo de producto y sabes estimarlo perfectamente. Además, es la opción ideal para proyectos donde los requisitos no cambian y las condiciones del entorno son conocidas y estables. 
+
+¿Y qué pasa si tienes que desarrollar un proyecto/producto nuevo? ¿Estás 100% seguro de que todo saldrá exactamente según la estimación y lo previsto?
+
+Un consejo: en este caso, considera aplicar una metodología ágil.
+
+Las metodologías ágiles surgen como alternativa a las tradicionales porque nos ayudan a reducir la probabilidad de fracaso por sub-estimación de costos, tiempos y funcionalidades en entornos cambiantes.
