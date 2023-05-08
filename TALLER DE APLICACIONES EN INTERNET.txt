@@ -11,3 +11,38 @@ Un consejo: adopta este tipo de metodología cuando ya tienes mucha experiencia 
 Un consejo: en este caso, considera aplicar una metodología ágil.
 
 Las metodologías ágiles surgen como alternativa a las tradicionales porque nos ayudan a reducir la probabilidad de fracaso por sub-estimación de costos, tiempos y funcionalidades en entornos cambiantes.
+
+
+METODOLOGÍAS ÁGILES
+las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.
+En esencia, las empresas que apuestan por esta metodología consiguen gestionar sus proyectos de forma flexible, autónoma y eficaz reduciendo los costes e incrementando su productividad. Con este Master en Metodologías ágiles 100% online aprenderás los aspectos básicos para gestionar las metodologías ágiles dentro de tu empresa.
+Ventajas del Agile Project Management
+A continuación enumeramos algunas de las ventajas que nos brinda la gestión ágil de proyectos:
+Mejora de la calidad del producto: Estas metodologías fomentan el enfoque proactivo de los miembros del equipo en la búsqueda de la excelencia del producto. Además, la integración, comprobación y mejora continúa de las propiedades del producto mejora considerablemente el resultado final.
+Mayor satisfacción del cliente: El cliente está más satisfecho al verse involucrado y comprometido a lo largo de todo el proceso de desarrollo. Mediante varias demostraciones y entregas, el cliente vive a tiempo real las mejoras introducidas en el proceso.
+Mayor motivación de los trabajadores: Los equipos de trabajo autogestionados, facilitan el desarrollo de la capacidad creativa y de innovación entre sus miembros.
+Trabajo colaborativo: La división del trabajo por distintos equipos y roles junto al desarrollo de reuniones frecuentes, permite una mejor organización del trabajo.
+Uso de métricas más relevantes: Las métricas utilizadas para estimar parámetros como tiempo, coste, rendimiento, etc. son normalmente más reales en proyectos ágiles que en los tradicionales. Gracias a la división en pequeños equipos y fases podemos ser más conscientes de lo que está sucediendo.
+Mayor control y capacidad de predicción: La oportunidad de revisar y adaptar el producto a lo largo del proceso ágil, permite a todos los miembros del proyecto ejercer un mayor control sobre su trabajo, cosa que permite mejorar la capacidad de predicción en tiempo y costes.
+Reducción de costes: La gestión ágil del proyecto elimina prácticamente la posibilidad de fracaso absoluto en el proyecto, porque los errores se van identificando a lo largo del desarrollo en lugar de esperar a que el producto esté acabado y toda la inversión realizada.
+
+
+USAR GITHUB
+Puedes probar GitHub con tu equipo de forma gratuita. Hay un plan básico que incluye repositorios y colaboradores ilimitados, pero sólo 500 MB de espacio de almacenamiento.
+Si quieres disfrutar de todas las funciones de GitHub, puedes elegir uno de sus planes de pago.
+Ventajas de GitHub
+Existe un gran número de razones que convierten a GitHub en una gran opción para el control y gestión de tus proyectos de código. Aquí algunas de ellas:
+GitHub permite que alojemos proyectos en repositorios de forma gratuita
+Te brinda la posibilidad de personalizar tu perfil en la plataforma
+Los repositorios son públicos por defecto. Sin embargo, GitHub te permite también alojar tus proyectos de forma privada
+Puedes crear y compartir páginas web estáticas con GitHub Pages
+Facilita compartir tus proyectos de una forma mucho más fácil y crear un portafolio
+Te permite colaborar para mejorar los proyectos de otros y a otros mejorar o aportar a los tuyos
+Ayuda reducir significativamente los errores humanos y escribir tu código más rápido con GitHub Copilot
+1. Crear un Repositorio de GitHub
+Lo primero que debes tener es una cuenta creada en GitHub. Registrarse es gratuito. Una vez que tengas la cuenta, inicia sesión con tu usuario y clave. Luego, sigue estos pasos:
+En la esquina superior derecha de cualquier página, encontrarás un signo de + que sirve para realizar las acciones de la página. Das clic en el símbolo y creas un nuevo repositorio (new repository).
+Una vez realizado eso, debes llenar los datos que se solicitan a continuación. Darle un nombre, que de preferencia debe ser claro, definir si será público o privado y colocar una pequeña descripción sobre tu repositorio. Este campo es opcional, pero te recomiendo que lo llenes para organizarte mejor y que los demás usuarios tengan una idea sobre lo que trata el repositorio que estás creando.
+Activa el checkbox que dice iniciar tu repositorio con un README, este será tu primer archivo, la presentación de tu proyecto.
+Presiona el botón de “crear repositorio” y listo. Ya tienes tu primer repositorio creado.
+Conoce aquí una guía de buenas prácticas para trabajar con GitHub.
